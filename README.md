@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Tlrenhb
-- 👀 I’m interested in 刷机
-- 🌱 I’m currently learning 芝士
-- 💞️ I’m looking to collaborate on 看不懂
-- 📫 How to reach me 2459696861@qq.com
-- 😄 Pronouns: Chinese
-- ⚡ Fun fact: None
+### Hi there 👋 I'm Tlrenhb!
 
-<!---
-Tlrenhb/Tlrenhb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tlrenhb)](https://github.com/Tlrenhb/github-readme-stats)
+
+
+### 💻 Environment
+[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
+
+
+### 📱 Devices
+[![Xiaomi 6X](https://img.shields.io/badge/Xiaomi%206X-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://www.mi.com/a/h/6181.html)
+![Redmi K70 Ultra](https://img.shields.io/badge/Redmi%20K70%20Ultra-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=)
+![Xiaomi Pad 5Pro 5G](https://img.shields.io/badge/Xiaomi%20Pad%205%20Pro%205G-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=)
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python              ░░░░░░░░░░░░░░░░░░  0 %
+Java                ░░░░░░░░░░░░░░░░░░  0 %
+C                   ░░░░░░░░░░░░░░░░░░  0 % 
+Markdown            ░░░░░░░░░░░░░░░░░░  0 %
+Others              █░░░░░░░░░░░░░░░░░  9 %
